@@ -13,4 +13,4 @@ fi
         else 
          echo "Voce NÃO foi autorizado a editar o arquivo $VARIAVEL!"
 fi
-
+# agora vai com certeza 
